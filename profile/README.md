@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🐱
 
 ![alt text](https://raw.githubusercontent.com/En-pevele/.github/refs/heads/main/profile/pevele.jpg)
 
